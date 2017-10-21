@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1.01" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="1"
+        android:baselineAligned="false">
+
+        <Button
+            android:id="@+id/ShutterButton"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:layout_weight="0.51"
+            android:text="再撮影"
+            android:textAlignment="center"
+            android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/RegistButton"
+            android:layout_width="150dp"
+            android:layout_height="80dp"
+            android:layout_weight="0.51"
+            android:text="登録"
+            android:textAlignment="center"
+            android:textSize="36sp" />
+    </LinearLayout>
+
+</LinearLayout>
