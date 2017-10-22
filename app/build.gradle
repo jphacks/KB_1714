@@ -4,8 +4,8 @@ android {
     compileSdkVersion 25
     buildToolsVersion "26.0.2"
     defaultConfig {
-        applicationId "com.example.riddl.test"
-        minSdkVersion 15
+        applicationId "com.example.riddl.fashion"
+        minSdkVersion 16
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
