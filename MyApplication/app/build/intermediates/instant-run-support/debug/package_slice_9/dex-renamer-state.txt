@@ -1,4 +1,0 @@
-#Sun Oct 22 06:49:58 JST 2017
-base.0=C\:\\Users\\riddl\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9
-renamed.0=classes.dex
-file.0=C\:\\Users\\riddl\\AndroidStudioProjects\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
